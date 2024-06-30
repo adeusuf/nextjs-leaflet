@@ -1,0 +1,21 @@
+
+# Environment
+.env*
+!.env.sample
+
+
+# Next.JS
+.next
+node_modules
+
+
+# Pocketbase
+**/backend/storage
+
+
+# Package Manager
+npm-debug.log*
+
+
+# Compilers
+next-env.d.ts
